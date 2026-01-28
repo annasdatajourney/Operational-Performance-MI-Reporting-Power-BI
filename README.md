@@ -1,4 +1,4 @@
-# 📊 Operational Performance & MI Reporting (Power BI)
+# Operational Performance & MI Reporting (Power BI)
 
 ## Project overview
 This project focuses on analysing day-to-day operational service data to support regular performance monitoring and management decision-making. It replicates a typical UK MI / reporting scenario, where managers require clear visibility of workload, backlog and SLA performance rather than complex analytical models.
