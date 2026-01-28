@@ -23,7 +23,6 @@ The dataset used in this project represents **simulated operational service data
 ---
 
 ## Tools & techniques
-- **SQL** – basic querying and aggregation
 - **Power BI** – data modelling, visualisation and dashboard design
 - **CSV files** – source data format
 
