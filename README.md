@@ -1,4 +1,4 @@
-# 📊 Operational Performance & MI Reporting (SQL & Power BI)
+# 📊 Operational Performance & MI Reporting (Power BI)
 
 ## Project overview
 This project focuses on analysing day-to-day operational service data to support regular performance monitoring and management decision-making. It replicates a typical UK MI / reporting scenario, where managers require clear visibility of workload, backlog and SLA performance rather than complex analytical models.
@@ -46,7 +46,16 @@ A high-level view of overall operational performance, including ticket volume tr
 ### 2. Operational Detail
 A detailed breakdown by team, region and day of week, supporting identification of bottlenecks, workload imbalances and potential SLA risk areas.
 
-*(Screenshots to be added)*
+---
+
+### Screenshots
+
+**Executive Summary**
+![Executive Summary](screenshots/executive_summary.png)
+
+**Operational Detail**
+![Operational Detail](screenshots/operational_detail.png)
+
 
 ---
 
