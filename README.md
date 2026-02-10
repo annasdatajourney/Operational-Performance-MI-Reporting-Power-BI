@@ -102,7 +102,8 @@ README.md — project documentation
 ---
 
 ##  About This Project
-This project is part of my portfolio as a Junior Data & Business Analyst, focused on practical MI reporting and decision support using Power BI, SQL and Excel.
+This project is part of my portfolio as a Junior Data & Business Analyst, focused on practical MI reporting and decision support using Power BI and Excel.
+
 
 
 ---
