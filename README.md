@@ -1,20 +1,21 @@
-#  Operational Performance & MI Reporting (Power BI)
+# Operational Performance & MI Reporting (Power BI)
 
 Operational Performance & MI Reporting is a Power BI dashboard built to support operational managers in monitoring key performance indicators and improving day-to-day decision making across teams.
 
 ---
 
-##  Dashboard Preview
+## Dashboard Preview
 
-**Executive Summary**
+**Executive Summary**  
 ![Executive Summary](screenshots/executive_summary.png)
 
-**Operational Detail**
+**Operational Detail**  
 ![Operational Detail](screenshots/operational_detail.png)
 
 ---
 
-##  Overview
+## Overview
+
 This project focuses on creating a clear and practical MI (Management Information) dashboard to support operational performance monitoring.
 
 The main goal was to turn raw operational data into an easy-to-use reporting tool that helps managers understand workload, backlog, SLA performance and potential risk areas.
@@ -23,14 +24,16 @@ The dashboard was designed with a strong focus on usability and business value, 
 
 ---
 
-##  Business Requirement
+## Business Requirement
+
 Operational teams needed a simple and reliable way to track performance, identify bottlenecks and monitor SLA risks in order to support better resourcing and task prioritisation decisions.
 
 This dashboard addresses this need by providing clear, actionable and regularly updated performance metrics.
 
 ---
 
-##  Dataset
+## Dataset
+
 The dataset includes operational and performance-related data such as:
 
 - workload volumes  
@@ -42,15 +45,17 @@ It reflects a realistic operational environment where regular reporting is essen
 
 ---
 
-##  Tools & Technologies
+## Tools & Technologies
+
 - Power BI Desktop – data modelling, DAX measures, reports and dashboards  
 - Excel – data review, validation and quick calculations  
 - DAX – KPI logic (SLA %, backlog metrics, trend analysis)  
-- GitHub – version control and portfolio hosting  
+- GitHub – version control and portfolio hosting
 
 ---
 
-##  Analysis & Development Process
+## Analysis & Development Process
+
 1. Understanding business context and key performance metrics  
 2. Reviewing, cleaning and preparing the data  
 3. Building the data model and DAX measures  
@@ -59,7 +64,8 @@ It reflects a realistic operational environment where regular reporting is essen
 
 ---
 
-##  Key Metrics & KPIs
+## Key Metrics & KPIs
+
 - Backlog Count – number of unresolved tasks over time  
 - SLA Compliance % – share of tasks completed within SLA thresholds  
 - Workload Distribution – task volumes by period and category  
@@ -67,7 +73,8 @@ It reflects a realistic operational environment where regular reporting is essen
 
 ---
 
-##  Key Insights
+## Key Insights
+
 - Improved visibility of backlog and workload trends  
 - Early identification of potential SLA risk areas  
 - Better understanding of performance fluctuations  
@@ -75,7 +82,8 @@ It reflects a realistic operational environment where regular reporting is essen
 
 ---
 
-##  Business Value
+## Business Value
+
 This dashboard helps organisations to:
 
 - monitor operational performance more effectively  
@@ -85,25 +93,37 @@ This dashboard helps organisations to:
 
 It reflects how MI reporting is used in real UK business environments.
 
+---
 
-##  Repository Structure
+## Deliverables
 
-/screenshots — dashboard visuals  
-Operational_Performance.pbix — Power BI file  
-README.md — project documentation  
+- Power BI file: `Operational_Performance.pbix`  
+- Dashboard screenshots  
+- Project documentation (README)
 
 ---
 
-##  Possible Future Improvements
+## Repository Structure
+
+```
+/screenshots     — dashboard visuals
+Operational_Performance.pbix
+README.md
+```
+
+
+---
+
+## Possible Future Improvements
+
 - Extended long-term trend analysis  
 - More detailed drill-through views  
 - Automated data refresh pipelines  
 
 ---
 
-##  About This Project
+## About This Project
+
 This project is part of my portfolio as a Junior Data & Business Analyst, focused on practical MI reporting and decision support using Power BI and Excel.
 
 
-
----
